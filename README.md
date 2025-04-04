@@ -1,18 +1,12 @@
-# 📚 E-Learning iOS App (MAD Project)
+# 📚 E-Learning Android App (MAD Project)
 
-Welcome to the **E-Learning iOS App**, a modern educational companion built to empower university students with **time management**, **relaxation modes**, and **task tracking features** — all in one sleek mobile application. 🎓📱
+Welcome to the **E-Learning Android App**, developed as part of the **Mobile Application Development (MAD)** course. This app is designed to support university students by offering a combination of **task management**, **focus tools**, and **relaxation features** — helping students stay organized, focused, and stress-free during their academic journey. 🎓📱
+
+---
 
 ## 🚀 About the App
 
-This iOS app is developed as part of the **Mobile Application Development (MAD)** course. It provides students with tools to better manage their academic lives through:
-
-- 🕒 **Time Management Tools**
-- 😌 **Relaxation and Focus Modes**
-- ✅ **Task Completion & Tracking**
-- 📅 **Daily and Weekly Scheduling**
-- 🔔 **Smart Notifications & Reminders**
-
-The app is carefully designed to support **stress-free learning** and productivity enhancement for university students.
+The E-Learning app is your smart study partner! Whether it's managing your daily tasks, setting focus timers, or taking a relaxing break with ambient sounds — this app has it all.
 
 ---
 
@@ -20,29 +14,30 @@ The app is carefully designed to support **stress-free learning** and productivi
 
 | Feature | Description |
 |--------|-------------|
-| 🧠 **Focus Timer** | Start Pomodoro-style sessions for focused study. |
-| 🎧 **Relax Mode** | Play calming sounds or ambient music to reduce stress. |
-| ✅ **Task Manager** | Create, update, and mark assignments or study tasks. |
-| 📅 **Calendar View** | Visualize your tasks and deadlines weekly/monthly. |
-| 🔔 **Reminders** | Smart reminders to stay on track with your schedule. |
-| 📊 **Analytics** | Monitor your progress and completed tasks. |
+| ✅ **Task Management** | Create, update, and mark study tasks or assignments. |
+| 🕒 **Focus Mode** | Pomodoro-style timer for focused study sessions. |
+| 🎧 **Relax Mode** | Play calming sounds to help you relax or meditate. |
+| 📅 **Scheduler** | Organize your week with a built-in calendar view. |
+| 🔔 **Reminders** | Smart notifications so you never miss a task. |
+| 📊 **Progress Tracker** | Visual analytics of completed tasks and time spent. |
 
 ---
 
-## 📱 Screenshots
+## 📸 Screenshots
 
-> _Add screenshots here_ (optional - drag and drop images or link to images)
+> _Add screenshots here for a visual overview._  
+> (You can drag and drop images or link them via markdown.)
 
 ---
 
 ## 🛠️ Tech Stack
 
-- `Swift` - Core iOS Development
-- `Xcode` - IDE
-- `UIKit` / `SwiftUI` - UI Design
-- `CoreData` / `Realm` - Local Data Persistence (if used)
-- `AVFoundation` - Relaxation sound playback
-- `UserNotifications` - Local notifications for reminders
+- **Language:** Kotlin / Java  
+- **IDE:** Android Studio  
+- **UI Framework:** XML / Jetpack Compose  
+- **Database:** Room / SQLite  
+- **Notifications:** Android Notification Manager  
+- **Audio:** MediaPlayer API  
 
 ---
 
@@ -50,6 +45,6 @@ The app is carefully designed to support **stress-free learning** and productivi
 
 To run this project locally:
 
-1. Clone the repo:
+1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/MAD-Android-App.git
