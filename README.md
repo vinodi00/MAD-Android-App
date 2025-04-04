@@ -32,10 +32,10 @@ The E-Learning app is your smart study partner! Whether it's managing your daily
 
 ## 🛠️ Tech Stack
 
-- **Language:** Kotlin / Java  
+- **Language:** Kotlin  
 - **IDE:** Android Studio  
-- **UI Framework:** XML / Jetpack Compose  
-- **Database:** Room / SQLite  
+- **UI Framework:** XML 
+- **Database:** Room 
 - **Notifications:** Android Notification Manager  
 - **Audio:** MediaPlayer API  
 
